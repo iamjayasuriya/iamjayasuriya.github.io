@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
+#gem "jekyll", :git => "https://github.com/jekyll/jekyll.git"
+#gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git"
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
