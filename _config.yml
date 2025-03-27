@@ -98,6 +98,7 @@ defaults:
       read_time: true
       comments: true
       share: true
+      enable_copy_code_button: true
       related: true
   # _pages
   - scope:
